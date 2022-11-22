@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Articles</title>
-        <subtitle>...</subtitle>
-        <updated>2022-06-21T06:08:53Z</updated>
-        ...
-        <entry>
-        <author>
-        <name>Author's name</name>
-        </author>
-        <title>...</title>
-        ...
-        <updated>2022-06-21T06:08:53Z</updated>
-        <published>2022-06-21T06:07:57Z</published>
-        <category../>
-        <summary>...</summary>
-        </entry>
-        <entry>
-        ...
-        </entry>
+        <title>RSS Project</title>
+        <description>About RSS</description>
+        <link>http://example.org/</link>
+        <pubDate>Tue, 22 Nov 2022 10:00:00 GMT</pubDate>
+        <managingEditor>a21alencf@iessanclemente.net (Alenga)</managingEditor>
+        <item>
+        <title>Java</title>
+        <link>http://example.org/test.html</link>
+        <pubDate>Tue, 22 Nov 2022 10:00:00 GMT</pubDate>
+        <description>Java information</description>
+        </item>
     </channel>
 </rss>
