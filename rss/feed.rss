@@ -3,14 +3,26 @@
     <channel>
         <title>RSS Project</title>
         <description>About RSS</description>
-        <link>http://example.org/</link>
+        <link>https://alengaisc.github.io/RSS-Project/</link>
         <pubDate>Tue, 22 Nov 2022 10:00:00 GMT</pubDate>
         <managingEditor>a21alencf@iessanclemente.net (Alenga)</managingEditor>
         <item>
         <title>Java</title>
-        <link>http://example.org/test.html</link>
+        <link>https://alengaisc.github.io/RSS-Project/python.html</link>
         <pubDate>Tue, 22 Nov 2022 10:00:00 GMT</pubDate>
         <description>Java information</description>
+        </item>
+        <item>
+            <title>Python</title>
+            <link>https://alengaisc.github.io/RSS-Project/python.html</link>
+            <pubDate>Tue, 22 Nov 2022 10:00:00 GMT</pubDate>
+            <description>Python information</description>
+        </item>
+        <item>
+            <title>Kotlin</title>
+            <link>https://alengaisc.github.io/RSS-Project/kotlin.html</link>
+            <pubDate>Tue, 22 Nov 2022 10:00:00 GMT</pubDate>
+            <description>Kotlin information</description>
         </item>
     </channel>
 </rss>
